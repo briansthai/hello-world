@@ -1,4 +1,3 @@
 Learning how to use GitHub
-
-About: 
+ 
 Hi, my name is Brian. One of my favorite things about programming is that there are endless possibilities. There is so much to give back with programming and you can even connect the world. Baffling, right? Because of this I would like to learn how to program UI/UX. I love the idea of someone being able to use what I have created to help them in their lives. Of course, I am open to learning many other aspects of coding. Hence the start of this github :)
